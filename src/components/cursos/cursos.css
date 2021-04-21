@@ -1,0 +1,154 @@
+.cursos-secction{
+
+    width: 100%;
+    position: relative;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+
+
+
+
+.cursos-inferior{
+    position: relative;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    /* top: 100%; */
+    /* bottom: 0; */
+    min-height: 40vh;
+    width: 95%;
+    background-color: #212121;
+    
+
+    -webkit-transition: all 2s ease-in-out;
+    -moz-transition: all 2s ease-in-out;
+    -o-transition: all 2s ease-in-out;
+    -ms-transition: all 2s ease-in-out;
+    transition: all 2s ease-in-out;
+
+
+}
+
+
+.ci-secction{
+    margin-top: 20px;
+    width: 95%;
+    margin-left: 2.5%;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+
+}
+
+.cursos-superior{
+    border-radius: 3px;
+    position: relative;
+    background-color: #212121;
+    display: flex;
+    align-items: center;
+    
+    flex-direction: column;
+    flex-wrap: wrap !important;
+
+    width: 95%;
+    height: 40vh;
+}
+
+
+.css-image{
+    display: flex;
+    top: 0%;
+    position: relative;
+    width: 90%;
+    background-color: black;
+    height: 80%;
+    opacity: 0.8;
+
+}
+
+.css-image img{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.css-descripcion{
+    display: none;
+    width: 100%;
+    text-align: center;
+    background-color: #003459;
+    color: #fff;
+}
+
+.css-descripcion h3{
+    font-size: 1.5rem;
+}
+
+
+@media (min-width:480px){
+    .css-descripcion{
+        display: block;
+
+    }
+    .cursos-superior{
+        height: 60vh;
+    }
+
+    .cursos-inferior{
+
+        min-height: 60vh;
+
+
+    
+    }
+
+    .cursos-secction{
+        margin-bottom: 60vh;
+    }
+
+
+}
+
+
+@media (min-width:768px){
+    .cursos-secction{
+
+        margin-bottom: 40vh;
+        
+    }
+
+
+    .cursos-inferior{
+        position: absolute;
+
+    
+    }
+
+    .cursos-superior{
+        height: 90vh;
+    }
+    .cursos-inferior{
+        min-height: 90vh;
+    }
+    .cursos-secction{
+        margin-bottom: 90vh;
+    }
+}
+
+
+@media (min-width:1000px){
+    .css-image{
+
+        height: 90%;
+    
+    }
+
+}

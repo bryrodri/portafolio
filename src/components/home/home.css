@@ -1,0 +1,49 @@
+.icono{
+    font-size: 60px;
+    color: aqua;
+}
+
+.principal{
+    position: relative;
+    
+    bottom: 60px;
+
+}
+
+.principal-pages{
+  min-height: 80vh;
+}
+
+
+
+.estatico{
+  
+  
+  margin: 20px;
+  margin-bottom: 100px;
+  position: static;
+}
+
+
+/* prueba */
+.box{
+  overflow: hidden;
+    height: 150px;
+    width: 25%;
+    position: relative;
+}
+
+
+
+
+@media (min-width:768px){
+
+  .principal{
+    position: relative;
+    
+    top: 60px;
+
+  }
+}
+
+

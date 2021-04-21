@@ -1,0 +1,33 @@
+.enlaces-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.enlaces-item{
+    text-decoration: none;
+    color: #fff;
+}
+
+.enlaces-item:hover{
+    opacity: 0.8;
+    color: #fff;
+
+}
+
+.youtube{
+    text-decoration: none;
+    color: #ff0000;
+
+}
+
+.youtube:hover{
+    opacity: 0.8;
+    color: #ff0000;
+
+}

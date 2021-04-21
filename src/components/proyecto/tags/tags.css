@@ -1,0 +1,17 @@
+.tag-secction{
+    
+    margin-top: 10px;
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+ 
+
+}
+
+.tag-secction-ip{
+    margin-left: 8px;
+    margin-right: 8px;
+    font-size: 1rem;
+}

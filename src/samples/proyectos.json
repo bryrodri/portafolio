@@ -1,0 +1,215 @@
+[{  
+    "id":1,
+    "nombre":"QGApp",
+    "imgPrincipal":"/images/QGApp.png",
+    "images":[
+        {
+        "id":1,
+        "direccion":"/images/QGApp.png"},
+        {"id":2,
+            "direccion":"/images/QGApp1.png"},
+        {"id":3,
+        "direccion":"/images/QGApp2.png"},
+        {"id":4,
+            "direccion":"/images/QGApp3.png"},
+        {"id":5,
+        "direccion":"/images/QGApp4.png"}
+    ],
+    "enlaces":[],
+    "descripcion":"Esta aplicación fue desarrollada para la organización queremos graduarnos, se planteaba diseñar una base de datos relacional para la persistencia de sus datos y así poder manejar la información por medio de una aplicación de escritorio, en ella se elaboraron los módulos de gestión de personas, instituciones, actividades, login, compensación y configuración.",
+    "tags":[
+        {
+            "id":1,
+            "tag":"Angular"
+        },
+        {
+            "id":2,
+            "tag":"JavaEE"
+        },
+        {
+            "id":3,
+            "tag":"Electron"
+        }
+    ]
+},
+
+{  
+    "id":2,
+    "nombre":"OncoaliadoApp",
+    "imgPrincipal":"/images/OncoaliadoApp.png",
+    "images":[
+        {"id":1,
+            "direccion":"/images/OncoaliadoApp.png"}
+    ],
+
+    "enlaces":[],
+    "descripcion":"Esta aplicación fue desarrollada para la empresa Oncoaliado, lo que se requería era un sistema OLTP para el manejo de eventos, citas y usuarios, Además cuenta con un sistema de login.",
+    "tags":[
+        {
+            "id":1,
+            "tag":"Angular"
+        },
+        {
+            "id":2,
+            "tag":"JavaEE"
+        },
+        {
+            "id":3,
+            "tag":"MySQL"
+        }
+    ]
+},
+
+{  
+    "id":3,
+    "nombre":"MercadeoUcab",
+    "imgPrincipal":"/images/MercadeoUCAB.png",
+    "images":[
+        {"id":1,
+            "direccion":"/images/MercadeoUCAB.png"},
+        {"id":2,
+            "direccion":"/images/MercadeoUCAB1.png"},
+        {"id":3,
+            "direccion":"/images/MercadeoUCAB2.png"},
+        {"id":4,
+            "direccion":"/images/MercadeoUCAB3.png"}
+
+    ],
+    "enlaces":[
+        {
+            "id":1,
+            "tipo":"youtube",
+            "direccion":"https://www.youtube.com/watch?v=t9B5vWZ-GyU&t=22s"
+        }
+
+    ],
+
+    "descripcion":"En este proyecto sé pedía realizar una aplicación web para la realización de encuestas a personas acerca de estudios solicitados por el cliente, el flujo del sistema inicia con el cliente solicitando el estudio para uno de sus productos y acto seguido el administrador le asigna una encuesta y la muestra, despues el analista la activaría para que los participantes puedan rellenarla, hay que resaltar que existen dos tipos de encuestas las remotas y las vía telefónica que debía hacerlas el analista a cada persona de la muestra, luego de finalizar las encuestas el analista podía ver los resultados y colocar un resultado con base en su análisis.",
+    "tags":[
+        {
+            "id":1,
+            "tag":"Angular"
+        },
+        {
+            "id":2,
+            "tag":"MySQL"
+        },
+        {
+            "id":3,
+            "tag":"JavaEE"
+        }
+    ]
+},
+{  
+    "id":4,
+    "nombre":"Sandwiches UCAB",
+    "imgPrincipal":"/images/SWUCAB.png",
+    "images":[
+        {"id":1,
+            "direccion":"/images/SWUCAB.png"},
+        {"id":2,
+            "direccion":"/images/SWUCAB1.png"},
+        {"id":3,
+            "direccion":"/images/SWUCAB2.png"},
+        {"id":4,
+            "direccion":"/images/SWUCAB3.png"},
+        {"id":5,
+            "direccion":"/images/SWUCAB4.png"}
+
+    ],
+    "enlaces":[],
+    "descripcion":"En este proyecto sé pedía realizar una aplicación web para la petición de sandwiches, además era necesario generar el panel administrativo para la gestión de pedidos con Django.",
+    "tags":[
+        {
+            "id":1,
+            "tag":"Python"
+        },
+        {
+            "id":2,
+            "tag":"ReactJS"
+        },
+        {
+            "id":3,
+            "tag":"SQLite"
+        }
+    ]
+},
+{  
+    "id":5,
+    "nombre":"GreenEconomy",
+    "imgPrincipal":"/images/GreenEconomy.png",
+    "images":[
+        {"id":1,
+            "direccion":"/images/GreenEconomy.png"},
+        {"id":2,
+            "direccion":"/images/GreenEconomy1.png"},
+        {"id":3,
+            "direccion":"/images/GreenEconomy2.png"}
+    ],
+    "enlaces":[],
+    "descripcion":"En este proyecto se proponía realizar unos modelos para una aplicación de dispositivos móviles en la que se vería el impacto ambiental que generan las empresas.",
+    "tags":[
+        {
+            "id":1,
+            "tag":"WEEX"
+        },
+        {
+            "id":2,
+            "tag":"VueJS"
+        }
+    ]
+},
+{  
+    "id":6,
+    "nombre":"CovidAnalitic",
+    "imgPrincipal":"/images/Covid.png",
+    "images":[
+        {"id":1,
+            "direccion":"/images/Covid.png"}
+    ],
+    "enlaces":[
+        {
+            "id":1,
+            "tipo":"documento",
+            "direccion":"https://drive.google.com/file/d/1qzZd1B32YUlr0M6I8YtnR0idN-eyKg2j/view?usp=sharing"
+        }
+    ],
+    "descripcion":"En este proyecto sé pedía elaborar una base de datos en la que se pudiera visualizar una simulación de contagios del virus Covid-19, además de crear la base de datos se realizó la simulación en Oracle.",
+    "tags":[
+        {
+            "id":1,
+            "tag":"Oracle"
+        }
+    ]
+},
+{  
+    "id":7,
+    "nombre":"Clubs de Lecturas",
+    "imgPrincipal":"/images/Lectura.png",
+    "images":[
+        {"id":1,
+            "direccion":"/images/lectura.png"}
+    ],
+    "enlaces":[
+        {
+            "id":1,
+            "tipo":"documento",
+            "direccion":"https://drive.google.com/file/d/1K5DHjqhg-o93Vabk0LV6_tvpyvUjprAW/view?usp=sharing"
+        }
+    ],
+    "descripcion":"En este proyecto sé pedía diseñar y desarrollar una base de datos que soportara la gestión de clubes de lectura, en ella se permitía gestionar los libros, clubes, obras de teatro, miembros y grupos de lectura, actualmente no cuento con imágenes del sistema, pero sin embargo aún conservo el modelo ER realizado.",
+    "tags":[
+        {
+            "id":1,
+            "tag":"PostgreSQL"
+        },
+        {
+            "id":2,
+            "tag":"Laravel"
+        },   {
+            "id":3,
+            "tag":"Bootstrap"
+        }
+    ]
+}
+]

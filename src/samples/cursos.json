@@ -1,0 +1,42 @@
+[
+{
+    "id":"1",
+    "nombre":"HTML",
+    "descripcion":"Curso Introduccion a HTML",
+    "foto":"/images/CHTML.png"
+},
+{
+    "id":"2",
+    "nombre":"CSS",
+    "descripcion":"Curso Introduccion a CSS",
+    "foto":"/images/CCSS.png"
+},
+{
+    "id":"3",
+    "nombre":"JavaScript",
+    "descripcion":"Curso Introduccion a JavaScript",
+    "foto":"/images/CJS.png"
+},
+{
+    "id":"4",
+    "nombre":"Desarrollo de web responsive",
+    "descripcion":"Curso desarrollo de paginas web responsive",
+    "foto":"/images/CASWRD.png"
+},
+{
+    "id":"5",
+    "nombre":"Angular",
+    "descripcion":"Curso desarrollo de paginas web con Angular",
+    "foto":"/images/CANGULAR.png"
+},
+{
+    "id":"6",
+    "nombre":"NodeJS, Express y MongoDB",
+    "descripcion":"Curso de desarrollo de aplicaciones en NodeJS, Express y MongoDB",
+    "foto":"/images/CNODE.png"
+}
+
+
+
+
+]

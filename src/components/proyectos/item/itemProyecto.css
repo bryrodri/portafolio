@@ -1,0 +1,67 @@
+.ip-secction{
+    border-radius: 3px;
+    /* background: #272727; */
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    margin-left: 10px;
+    transition: all 1s ease-in-out;
+}
+
+.ip-secction:hover{
+    transform: scale(1.05);
+}
+
+.border-ip{
+    
+    border-top: none;
+}
+
+.ip-images{
+    
+    width: 290px;
+    height: 170px;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.ip-images img{
+    width: 290px;
+    height: 170px;
+    opacity: 0.8;
+}
+
+.ip-tags{
+    margin: 8px 0;
+    width: 100%;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+
+
+}
+
+.ip-tag{
+    color: #fff;
+    text-align: center;
+    font-size: 0.8rem;
+    border-radius: 20px;
+    padding: 5px 15px;
+    background:  
+    linear-gradient(to right bottom, 
+     #00171F,
+     #003459);
+}
+
+.ip-titulo{
+    width: 100%;
+    text-align: center;
+    color: #fff; 
+    font-size: 1.5rem;
+    
+}

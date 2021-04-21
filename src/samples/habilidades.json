@@ -1,0 +1,103 @@
+[
+{
+    "id":1,
+    "titulo":"Front-End",
+    "destrezas":[
+        {
+            "nombre":"HTML",
+            "conocimientos":"100%"
+        },
+        {
+            "nombre":"CSS",
+            "conocimientos":"85%"
+        },
+        {
+            "nombre":"JavaScript",
+            "conocimientos":"85%"
+        }
+    ]
+
+
+},
+{
+    "id":2,
+    "titulo":"Back-End",
+    "destrezas":[
+        {
+            "nombre":"JavaScript",
+            "conocimientos":"85%"
+        },
+        {
+            "nombre":"Python",
+            "conocimientos":"85%"
+        },
+        {
+            "nombre":"Java",
+            "conocimientos":"70%"
+        },
+        {
+            "nombre":"Php",
+            "conocimientos":"65%"
+        }
+    ]
+
+},
+{
+    "id":3,
+    "titulo":"Base de datos",
+    "destrezas":[
+        {
+            "nombre":"MySQL",
+            "conocimientos":"100%"
+        },
+        {
+            "nombre":"PostgreSQL",
+            "conocimientos":"90%"
+        },
+        {
+            "nombre":"Sqlite",
+            "conocimientos":"80%"
+        },
+        {
+            "nombre":"Oracle",
+            "conocimientos":"70%"
+        }
+        ,
+        {
+            "nombre":"MongoDB",
+            "conocimientos":"60%"
+        }
+    ]
+
+},
+{
+    "id":4,
+    "titulo":"Frameworks y Cms",
+    "destrezas":[
+        {
+            "nombre":"Angular",
+            "conocimientos":"100%"
+        },
+        {
+            "nombre":"Express",
+            "conocimientos":"90%"
+        },
+        {
+            "nombre":"ReactJS",
+            "conocimientos":"80%"
+        },
+        {
+            "nombre":"Django",
+            "conocimientos":"70%"
+        }
+        ,
+        {
+            "nombre":"Wordpress",
+            "conocimientos":"60%"
+        }
+    ]
+
+}
+
+
+]
