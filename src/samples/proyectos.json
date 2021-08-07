@@ -1,4 +1,66 @@
-[{  
+[
+    {  
+        "id":12,
+        "nombre":"Indiabana",
+        "imgPrincipal":"/images/indiabana.png",
+        "images":[
+            {
+            "id":1,
+            "direccion":"/images/indiabana.png"},
+            {"id":2,
+                "direccion":"/images/indiabana2.png"},
+            {"id":3,
+            "direccion":"/images/indiabana3.png"}
+        ],
+        "enlaces":[
+            {
+                "id":1,
+                "tipo":"enlace",
+                "direccion":"https://test2.indiabana.com"
+            }
+
+        ],
+        "descripcion":"En esta aplicación se plantea generar un market place que contenga sistema de compras, aliados, facturación e inventario, este sistema actualmente se encuentra en desarrollo y me hago cargo de los módulos relacionados con el vendedor.",
+        "tags":[
+            {
+                "id":1,
+                "tag":"ReactJS"
+            }
+        ]
+    },    
+    
+    {  
+    "id":11,
+    "nombre":"CONADIS PUD",
+    "imgPrincipal":"/images/conadis.png",
+    "images":[
+        {
+        "id":1,
+        "direccion":"/images/conadis.png"},
+        {"id":2,
+            "direccion":"/images/conadis2.png"},
+        {"id":3,
+        "direccion":"/images/conadis3.png"},
+        {"id":4,
+            "direccion":"/images/conadis4.png"}
+    ],
+    "enlaces":[
+        {
+            "id":1,
+            "tipo":"enlace",
+            "direccion":"https://pudtest.conadisperu.gob.pe/"
+        }
+    ],
+    "descripcion":"Esta aplicación fue desarrollada para CONADIS, se plantea tener un registro de discapacidad por medio de gráficos para su previo análisis, mi trabajo en este proyecto fue desarrollar las vistas, agregar reportes descargables a nivel de frontend y la conexión con la api rest, todas las pantallas y gráficos fueron desarrolladas por mí a excepción de la pantalla dashboard.",
+    "tags":[
+        {
+            "id":1,
+            "tag":"ReactJS"
+        }
+    ]
+},
+
+    {  
     "id":1,
     "nombre":"QGApp",
     "imgPrincipal":"/images/QGApp.png",
@@ -16,7 +78,7 @@
         "direccion":"/images/QGApp4.png"}
     ],
     "enlaces":[],
-    "descripcion":"Esta aplicación fue desarrollada para la organización queremos graduarnos, se planteaba diseñar una base de datos relacional para la persistencia de sus datos y así poder manejar la información por medio de una aplicación de escritorio, en ella se elaboraron los módulos de gestión de personas, instituciones, actividades, login, compensación y configuración.",
+    "descripcion":"Esta aplicación de escritorio fue desarrollada para la organización queremos graduarnos, se planteaba diseñar una base de datos relacional para la persistencia de sus datos y así poder manejar la información por medio de una aplicación de escritorio, en ella se elaboraron los módulos de gestión de personas, instituciones, actividades, login, compensación y configuración.",
     "tags":[
         {
             "id":1,
@@ -56,6 +118,35 @@
         {
             "id":3,
             "tag":"MySQL"
+        }
+    ]
+},
+{  
+    "id":6,
+    "nombre":"Generador horarios",
+    "imgPrincipal":"/images/horarios.png",
+    "images":[
+        {"id":1,
+            "direccion":"/images/horarios.png"},
+        {"id":2,
+            "direccion":"/images/horarios2.png"},
+        {"id":3,
+            "direccion":"/images/horarios3.png"},
+        {"id":4,
+            "direccion":"/images/horarios4.png"}
+    ],
+    "enlaces":[
+        {
+            "id":1,
+            "tipo":"documento",
+            "direccion":"http://bryrodri.educationhost.cloud/"
+        }
+    ],
+    "descripcion":"Este proyecto fue elaborado para reforzar conocimientos a nivel de front-end, en este sistema tienes la posibilidad de generar horarios rellenando tarjetas, estas tarjetas de forma dinamica te avisan si hay algún horario duplicado y luego  se puede descargar dicho horario en PDF o JPG.",
+    "tags":[
+        {
+            "id":1,
+            "tag":"ReactJS"
         }
     ]
 },
@@ -100,88 +191,8 @@
         }
     ]
 },
-{  
-    "id":4,
-    "nombre":"Sandwiches UCAB",
-    "imgPrincipal":"/images/SWUCAB.png",
-    "images":[
-        {"id":1,
-            "direccion":"/images/SWUCAB.png"},
-        {"id":2,
-            "direccion":"/images/SWUCAB1.png"},
-        {"id":3,
-            "direccion":"/images/SWUCAB2.png"},
-        {"id":4,
-            "direccion":"/images/SWUCAB3.png"},
-        {"id":5,
-            "direccion":"/images/SWUCAB4.png"}
 
-    ],
-    "enlaces":[],
-    "descripcion":"En este proyecto sé pedía realizar una aplicación web para la petición de sandwiches, además era necesario generar el panel administrativo para la gestión de pedidos con Django.",
-    "tags":[
-        {
-            "id":1,
-            "tag":"Python"
-        },
-        {
-            "id":2,
-            "tag":"ReactJS"
-        },
-        {
-            "id":3,
-            "tag":"SQLite"
-        }
-    ]
-},
-{  
-    "id":5,
-    "nombre":"GreenEconomy",
-    "imgPrincipal":"/images/GreenEconomy.png",
-    "images":[
-        {"id":1,
-            "direccion":"/images/GreenEconomy.png"},
-        {"id":2,
-            "direccion":"/images/GreenEconomy1.png"},
-        {"id":3,
-            "direccion":"/images/GreenEconomy2.png"}
-    ],
-    "enlaces":[],
-    "descripcion":"En este proyecto se proponía realizar unos modelos para una aplicación de dispositivos móviles en la que se vería el impacto ambiental que generan las empresas.",
-    "tags":[
-        {
-            "id":1,
-            "tag":"WEEX"
-        },
-        {
-            "id":2,
-            "tag":"VueJS"
-        }
-    ]
-},
-{  
-    "id":6,
-    "nombre":"CovidAnalitic",
-    "imgPrincipal":"/images/Covid.png",
-    "images":[
-        {"id":1,
-            "direccion":"/images/Covid.png"}
-    ],
-    "enlaces":[
-        {
-            "id":1,
-            "tipo":"documento",
-            "direccion":"https://drive.google.com/file/d/1qzZd1B32YUlr0M6I8YtnR0idN-eyKg2j/view?usp=sharing"
-        }
-    ],
-    "descripcion":"En este proyecto sé pedía elaborar una base de datos en la que se pudiera visualizar una simulación de contagios del virus Covid-19, además de crear la base de datos se realizó la simulación en Oracle.",
-    "tags":[
-        {
-            "id":1,
-            "tag":"Oracle"
-        }
-    ]
-},
+
 {  
     "id":7,
     "nombre":"Clubs de Lecturas",

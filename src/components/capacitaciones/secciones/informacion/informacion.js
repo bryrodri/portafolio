@@ -16,18 +16,18 @@ export default class Informacion extends Component {
 
                         <div className="inf-contenido">
                             <p>
-                            Soy Bryan Rodríguez tengo 24 años, resido en Venezuela y soy estudiante de décimo semestre en la Universidad Católica Andres Bello en la carrera de ingeniería informática, cuento con experiencia moderada en el ámbito profesional ya que he tenido la oportunidad de participar en algunos proyectos, actualmente estoy a la busca de nuevas oportunidades profesionales para obtener más experiencia y desarrollar mis capacidades.
+                            Soy Bryan Rodríguez tengo 24 años, resido en Venezuela y soy estudiante de décimo semestre en la Universidad Católica Andres Bello en la carrera de ingeniería informática, cuento con experiencia de más de un año desarrollando aplicaciones web con reactJS.
                             </p>
 
                             <p>
-                            A nivel profesional puedo aportar gran valor al proyecto que tengas en mente debido a la gran variedad de herramientas que puedo manejar, a nivel de Front-End puedo convertir tu diseño PDS a HTML, CSS y JavaScript, ademas puedo desarrollar aplicaciones web con herramientas de alto nivel en este ambiente, es decir con ReacJs o Angular, por otro lado también estoy capacitado para desarrollar aplicaciones de escritorio con las herramientas antes nombradas.
+                            A nivel profesional puedo aportar gran valor al proyecto que tengas en mente debido a la gran variedad de herramientas que puedo manejar, a nivel de Front-End puedo convertir tu diseño PDS a HTML, CSS y JavaScript, ademas puedo desarrollar aplicaciones web con herramientas de alto nivel en este ambiente, es decir con ReacJs o Angular, por otro lado también estoy capacitado para desarrollar aplicaciones de escritorio con herramientas como electron.
                             </p>
                             <p>
-                            Pero si buscas un desarrollador Back-end también puedo ayudarte, ya que tengo conocimientos en NodeJS, JavaEE, PHP y Python, ademas se sobre gestión de bases de datos en MySQL, PostgreSQL, Oracle, SQLite y MongoDB.
+                            Por otro lado también cuento con conocimientos de Back-end, ya que he participado en proyectos con NodeJS, JavaEE y Python, ademas se sobre gestión de bases de datos en MySQL, PostgreSQL, Oracle, SQLite y MongoDB.
                             </p>
 
                             <p>
-                            Con lo anteriormente nombrado estoy capacitado para desarrollar aplicaciones web y de escritorio de manera practica, analizar tus requerimientos y convertirlos en diseños funcionales y lógicos, y ademas transformar tus requisitos en estructuras de datos. 
+                            Con lo anteriormente nombrado estoy capacitado para desarrollar aplicaciones web y de escritorio de manera practica, analizar tus requerimientos y convertirlos en diseños funcionales y lógicos, y ademas transformar tus requisitos en estructuras de datos, si deseas contactarme en la sección principal encontraras todos mis medios de contacto. 
                             </p>
 
 
@@ -40,7 +40,7 @@ export default class Informacion extends Component {
 
                     <div className="cv-container">
 
-                        <a href="https://drive.google.com/file/d/1FJgs_4ghF0QgcrQ0cLREgx9Q-n-aNyof/view?usp=sharing" target="_blank" rel="noreferrer">
+                        <a href="https://drive.google.com/file/d/1jNtRSR9Ab_7IOm7q-o8jPtzmvtZLeDkI/view?usp=sharing" target="_blank" rel="noreferrer">
                             <div>
                             <IoIosCloudDownload size={17}  />
                             <span> Ver CV</span>
